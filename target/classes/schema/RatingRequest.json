@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "javaType": "com.github.simplesteph.udemy.kafka.streams.model.RatingRequest",
+  "properties": {
+    "locationId": {"type": "integer"},
+    "ratingId": {"type": "integer"},
+    "comment": {"type": "string"}
+  }
+}

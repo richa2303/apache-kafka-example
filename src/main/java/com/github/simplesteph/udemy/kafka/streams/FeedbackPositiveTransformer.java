@@ -1,6 +1,5 @@
 package com.github.simplesteph.udemy.kafka.streams;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

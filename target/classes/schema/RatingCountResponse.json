@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "javaType": "com.github.simplesteph.udemy.kafka.streams.model.RatingResponse",
+  "properties": {
+    "locationId": {"type": "integer"},
+    "positiveCount": {"type": "integer"},
+    "negativeCount": {"type": "integer"},
+    "ratingId": {"type": "integer"},
+    "remark": {"type": "string"}
+  }
+}
